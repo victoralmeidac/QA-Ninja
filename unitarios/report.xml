@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="rspec" tests="6" skipped="0" failures="0" errors="0" time="0.169354" timestamp="2019-03-11T20:13:08-03:00" hostname="DESKTOP-N5L9II4">
+<properties>
+<property name="seed" value="42109"/>
+</properties>
+<testcase classname="spec.avensgers_spec" name="AvengersHeadQuarter deve adicionar um vingador" file="./spec/avensgers_spec.rb" time="0.022160"></testcase>
+<testcase classname="spec.avensgers_spec" name="AvengersHeadQuarter deve adicionar uma lista de vingadores" file="./spec/avensgers_spec.rb" time="0.062520"></testcase>
+<testcase classname="spec.avensgers_spec" name="AvengersHeadQuarter thor deve ser o primeiro da lista" file="./spec/avensgers_spec.rb" time="0.022146"></testcase>
+<testcase classname="spec.avensgers_spec" name="AvengersHeadQuarter IronMan deve ser o ultimo da lista" file="./spec/avensgers_spec.rb" time="0.000000"></testcase>
+<testcase classname="spec.avensgers_spec" name="AvengersHeadQuarter deve conter o sobrenome" file="./spec/avensgers_spec.rb" time="0.031264"></testcase>
+<testcase classname="spec.exemplos_spec" name="suite rspec soma de valores" file="./spec/exemplos_spec.rb" time="0.000000"></testcase>
+</testsuite>
